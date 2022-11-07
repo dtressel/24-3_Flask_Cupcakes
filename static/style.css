@@ -1,0 +1,8 @@
+.cupcake-img {
+  height: 360px;
+}
+
+#cupcake-list {
+  display: flex;
+  flex-wrap: wrap;
+}
